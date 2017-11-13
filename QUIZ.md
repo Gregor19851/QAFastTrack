@@ -12,3 +12,5 @@ opisy testów
 
 test plan(zbiór przypadków testowych),
 przypadki testowe(konkretny przypadek z listą kroków do wykonania i założonym rezultatem)
+
+Hello GIT
